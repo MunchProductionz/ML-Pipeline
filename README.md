@@ -33,6 +33,16 @@ Using the following packages:
 
 - `pip==23.3`
 - `Python==3.12.0`
+- `jupyter`
+- `opendatasets`
+- `pandas`
+- `numpy`
+- `seaborn`
+- `matplotlib`
+- `tqdm`
+- `sentence-transformers`
+- `bertopic`
+- `umap`
 
 Install pip using:
 
