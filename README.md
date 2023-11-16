@@ -32,7 +32,7 @@ Activate/deactivate the conda environment using:
 Using the following packages:
 
 - `pip==23.3`
-- `Python==3.12.0`
+- `Python==3.11.4`
 - `jupyter`
 - `opendatasets`
 - `pandas`
