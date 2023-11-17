@@ -40,6 +40,8 @@ Using the following packages:
 - `seaborn`
 - `matplotlib`
 - `tqdm`
+- `sklearn-scikit`
+- `joblib`
 - `sentence-transformers`
 - `bertopic`
 - `umap`
