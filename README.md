@@ -42,6 +42,7 @@ Using the following packages:
 - `tqdm`
 - `sklearn-scikit`
 - `joblib`
+- `atom-ml`
 - `sentence-transformers`
 - `bertopic`
 - `umap`
