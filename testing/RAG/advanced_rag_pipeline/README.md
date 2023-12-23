@@ -32,3 +32,27 @@ Uses TruLens to evalute the RAG performance using the RAG Triad, consisting of:
 3. Groundedness. (Compares the intermediate results and the output to answer: )
 
 Builds a feedback recorder (dashboard) detailing RAG Triad scores on each query evaluation using Streamlit.
+
+### Other evaluation metrics TruLens
+Honest:
+- Answer relevance
+- Context Relevance
+- Groundedness
+- Embedding distance
+- BLEU, ROUGE, ...
+- Summarization quality
+- Custom evaluations
+
+Harmless:
+- PII Detection
+- Toxicity
+- Stereotyping
+- Jailbreaks
+- Custom evaluations
+
+Helpful:
+- Sentiment
+- Language mismatch
+- Conciseness
+- Coherence
+- Custom evaluations
